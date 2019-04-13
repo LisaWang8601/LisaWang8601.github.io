@@ -1,5 +1,7 @@
 # LisaWang8601.github.io
 My portfolio
+Code snippets from a Asp.Net Core project done for real problem using open source nuget packages/libraries extracing data from PDF forms.  
+https://github.com/LisaWang8601/dotnet-Core
 
 <a href="https://github.com/LisaWang8601/ChatBot-SnowLeopardAdventure" > Sonw Leopard Adventure </a>
 A progressive chatbot app. 
