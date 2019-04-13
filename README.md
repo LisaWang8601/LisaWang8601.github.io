@@ -4,7 +4,7 @@ My portfolio
 <a href="https://github.com/LisaWang8601/ChatBot-SnowLeopardAdventure" > Sonw Leopard Adventure </a>
 A progressive chatbot app. 
 
-Please see my map app deployed on Firebase: <a href="https://sw-map-34597.firebaseapp.com
+Please see my map app exercise deployed on Firebase: <a href="https://sw-map-34597.firebaseapp.com
 " > Map and Notes </a> 
 
 An exercise of listing employees by types using Asp.Net Core: <a href="https://github.com/LisaWang8601/EmployeeList" > Listing Employees by type </a>
