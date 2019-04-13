@@ -12,4 +12,6 @@ Please see my map app exercise deployed on Firebase: <a href="https://sw-map-345
 
 An exercise of listing employees by types using Asp.Net Core: <a href="https://github.com/LisaWang8601/EmployeeList" > Listing Employees by type </a>
 
-There are also simple exercises of <a href="https://github.com/LisaWang8601/magic8ball" > Maigc 8 Ball </a>  also deployed on Firebase and <a href="https://github.com/LisaWang8601/feb22HerokuChat" >chatbot deployedd on Heroku </a> done in class when I was taking the Mobile Application course.
+There are also simple exercises of <a href="https://github.com/LisaWang8601/magic8ball" > Maigc 8 Ball </a>  also deployed on Firebase accessible at this link <a href="https://magic-8-ball-500c5.firebaseapp.com">Magic 8 Ball exercise on Firebase</a>
+
+and <a href="https://github.com/LisaWang8601/feb22HerokuChat" >chatbot deployedd on Heroku </a> done in class when I was taking the Mobile Application course exploring different deployment options.
